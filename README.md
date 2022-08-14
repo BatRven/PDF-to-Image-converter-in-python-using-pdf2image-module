@@ -1,1 +1,1 @@
-# PDF-to-Image-converter-in-python-using-pdf2image-module
+# PDF to Image converter in python using pdf2image
